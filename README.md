@@ -1,6 +1,6 @@
 # 📚 Cómics para Obsidian
 
-Proyecto personal que hice para llevar mis lecturas de cómics en [Obsidian](https://obsidian.md).
+Proyecto personal hecho para llevar lecturas de cómics en [Obsidian](https://obsidian.md).
 Lo comparto por si a alguien le sirve, pero es un programa hecho a mi medida: puede tener errores
 y cosas que se podrían hacer mejor.
 
