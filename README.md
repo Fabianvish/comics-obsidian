@@ -29,6 +29,7 @@ Es un programa de consola con menús numerados: Enter acepta y Esc cancela en cu
 10. [Nombres de archivos de cómics](#nombres)
 11. [Problemas frecuentes](#problemas)
 12. [Variables de entorno](#variables)
+13. [Agradecimientos](#agradecimientos)
 
 ---
 
@@ -323,3 +324,17 @@ se pueden asignar en **Configuración → Emparejar a mano un archivo sin empare
 |---|---|---|
 | `COMICS_API_URL` | `https://comicvine.gamespot.com/api` | URL de la API de Comic Vine. |
 | `COMICS_API_PAUSA` | `1.1` | Segundos de espera entre consultas a la API. |
+
+---
+
+<a id="agradecimientos"></a>
+
+## Agradecimientos
+
+- [CBL-ReadingLists](https://github.com/DieselTech/CBL-ReadingLists), de DieselTech: recopilación de órdenes
+  de lectura que se usa como catálogo.
+- Autores originales de esas listas, entre ellos [CBRO](https://comicbookreadingorders.com),
+  [CMRO](https://cmro.travis-starnes.com), [Comic Book Herald](https://www.comicbookherald.com),
+  [Comic Book Treasury](https://www.comicbooktreasury.com) y [Marvel Guides](https://marvelguides.com).
+- [Comic Vine](https://comicvine.gamespot.com): datos de personajes, obtenidos mediante su API.
+- [Obsidian](https://obsidian.md) y el plugin [Dataview](https://github.com/blacksmithgu/obsidian-dataview).
